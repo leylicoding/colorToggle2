@@ -1,0 +1,36 @@
+body {
+    background-color: #b4afaf;
+}
+/* The Icon */
+.btn-toggle {
+    width: 70px;
+    height: 100%;
+    cursor: pointer;
+}
+
+/* The Colors */
+aside ul {
+    visibility: hidden;
+}
+aside ul li{
+    padding: 20px;
+    list-style: none;
+    border: 1px solid #b4afaf;
+
+}
+
+#box1 {
+    background-color: #b4afaf;
+}
+#box2 {
+    background-color: red;
+}
+#box3 {
+    background-color: orange;
+}
+#box4 {
+    background-color: purple;
+}
+#box5 {
+    background-color: green;
+}
